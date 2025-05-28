@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 30 Jun, 2021, 6:42:34 PM
-    Author     : JAVA-JP
+
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
